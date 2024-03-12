@@ -1,0 +1,6 @@
+@MMorais.API_HostAddress = http://localhost:5116
+
+GET {{MMorais.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
